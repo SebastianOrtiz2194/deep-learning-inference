@@ -86,8 +86,8 @@ and retrieves results through the REST API.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SebastianOrtiz2194/deepLearning.git
-cd deepLearning
+git clone https://github.com/SebastianOrtiz2194/deep-learning-inference.git
+cd deep-learning-inference
 
 # 2. Start infrastructure (Kafka, Redis, apps)
 docker-compose up -d
